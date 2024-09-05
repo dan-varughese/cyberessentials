@@ -20,4 +20,17 @@ The Cyber Essentials audit assessed Solutions3's compliance against the various 
 ## Steps
 
 *Ref 1: CMMI Introduction*
+
 <img src="https://imagizer.imageshack.com/img922/3452/6DllDw.png"/>
+
+*Ref 2: Spider Diagram for Access Control Domain*
+
+<img src="https://imagizer.imageshack.com/img923/7586/S39gnB.png"/>
+
+*Ref 3: Remediation Recommendations and Benefits of Remediation*
+
+<img src="https://imagizer.imageshack.com/img922/5830/SbHRaR.png"/>
+
+*Ref 4: Executive Summary of Report*
+
+<img src="https://imagizer.imageshack.com/img922/8116/KqBv9N.png"/>
