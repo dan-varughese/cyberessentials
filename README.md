@@ -1,7 +1,7 @@
-# Cyber Essentials Audit
+# Cyber Essentials Gap Analysis
 
 ## Objective
-The Cyber Essentials audit assessed Solutions3's compliance against the various domains provided by DHS/CISA in the 'Cyber Essentials' framework.
+This Cyber Essentials gap analysis assessed Solutions3's compliance against the various domains provided by DHS/CISA in the 'Cyber Essentials' framework.
 
 ### Skills Learned
 
@@ -12,10 +12,10 @@ The Cyber Essentials audit assessed Solutions3's compliance against the various 
 
 ### Tools Used
 
-- DHS/CISA Cyber Essentials Framework (6 Toolkits)
+- DHS/CISA Cyber Essentials Framework (6 Toolkits with 5-6 controls per toolkit)
 - MITRE ATT&CK Framework
 - NIST DoD RMF Framework
-- CMMI / CMMC Models
+- CMMI
 
 ## Steps
 
